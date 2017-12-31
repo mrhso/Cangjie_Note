@@ -1,6 +1,11 @@
 # Cangjie_Note
 此倉頡筆記會揭示倉頡不為人知的一些細節，同時也屬於「倉頡 Project」中的冰山一角。
 
+## 主要內容講解
+
+### 我有問題問紅蓮
+[老楊](https://github.com/Arthurmcarthur)詢問沈奶奶的一系列信件。
+
 ## 其餘「倉頡 Project」項目
 - [Cangjie3-Plus](https://github.com/Arthurmcarthur/Cangjie3-Plus)
 - [Cangjie5](https://github.com/Jackchows/Cangjie5)
