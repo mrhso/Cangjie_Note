@@ -3,8 +3,14 @@
 
 ## 主要內容講解
 
+### 倉頡內碼相關
+講述倉頡內碼的轉換原理。
+
 ### 我有問題問紅蓮
-[老楊](https://github.com/Arthurmcarthur)詢問沈奶奶的一系列信件。
+收錄[老楊](https://github.com/Arthurmcarthur)詢問沈奶奶的一系列信件。
+
+### 倉頡規則相關
+講述倉頡的取碼等規則。
 
 ## 其餘「倉頡 Project」項目
 - [Cangjie3-Plus](https://github.com/Arthurmcarthur/Cangjie3-Plus)

@@ -1,6 +1,17 @@
 # Cangjie_Note
 此仓颉笔记会揭示仓颉不为人知的一些细节，同时也属于「仓颉 Project」中的冰山一角。
 
+## 主要内容讲解
+
+### 仓颉内码相关
+讲述仓颉内码的转换原理。
+
+### 我有问题问红莲
+收录[老杨](https://github.com/Arthurmcarthur)询问沈奶奶的一系列信件。
+
+### 仓颉规则相关
+讲述仓颉的取码等规则。
+
 ## 其余「仓颉 Project」项目
 - [Cangjie3-Plus](https://github.com/Arthurmcarthur/Cangjie3-Plus)
 - [Cangjie5](https://github.com/Jackchows/Cangjie5)
