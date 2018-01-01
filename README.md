@@ -17,10 +17,14 @@
 - [Cangjie5](https://github.com/Jackchows/Cangjie5)
 - [Cangjie_DIY](https://github.com/Jackchows/Cangjie_DIY)
 
-## Binary 資料獲取方式
+## Binary 資料
 有些資料屬於 Binary，不便於在 Git 方式管理。
 
-請進入骨折 QQ 群獲取資料。
+### 列表
+- 文傳時代
+
+### 獲取方式
+請進入[QQ 骨折群](https://jq.qq.com/?_wv=1027&k=5UoCrbI)獲取資料。
 
 ## 遠程倉庫總表
 - [GitHub](https://github.com/mrhso/Cangjie_Note)
