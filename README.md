@@ -1,4 +1,6 @@
 # Cangjie_Note
+[简化字版说明](https://github.com/mrhso/Cangjie_Note/blob/master/README-hans.md)
+
 此倉頡筆記會揭示倉頡不為人知的一些細節，同時也屬於「倉頡 Project」中的冰山一角。
 
 ## 主要內容講解

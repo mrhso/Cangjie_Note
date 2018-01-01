@@ -1,4 +1,6 @@
 # Cangjie_Note
+[傳統漢字版說明](https://github.com/mrhso/Cangjie_Note/blob/master/README.md)
+
 此仓颉笔记会揭示仓颉不为人知的一些细节，同时也属于「仓颉 Project」中的冰山一角。
 
 ## 主要内容讲解
