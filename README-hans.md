@@ -24,7 +24,7 @@
 - 文传时代
 
 ### 获取方式
-请进入[QQ 骨折群](https://jq.qq.com/?_wv=1027&k=5UoCrbI)获取资料。
+请进入 [QQ 骨折群](https://jq.qq.com/?_wv=1027&k=5UoCrbI)获取资料。
 
 ## 远程仓库总表
 - [GitHub](https://github.com/mrhso/Cangjie_Note)
