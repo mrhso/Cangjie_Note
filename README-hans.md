@@ -18,13 +18,13 @@
 - [Cangjie_DIY](https://github.com/Jackchows/Cangjie_DIY)
 
 ## Binary 资料
-有些资料属于 Binary，不便于在 Git 方式管理。
+有些资料属于 Binary，不便于在 Git 仓库管理。
 
 ### 列表
 - 文传时代
 
 ### 获取方式
-请进入 [QQ 骨折群](https://jq.qq.com/?_wv=1027&k=5UoCrbI)获取资料。
+- [QQ 骨折群](https://jq.qq.com/?_wv=1027&k=5UoCrbI)
 
 ## 远程仓库总表
 - [GitHub](https://github.com/mrhso/Cangjie_Note)
