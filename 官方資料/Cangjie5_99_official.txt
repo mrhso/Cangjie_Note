@@ -18017,7 +18017,7 @@
 遧	卜卜並交	YYTJ
 邅	卜卜方横	YYWM
 逌	卜卜方側	YYWS
-「	卜卜卜日日	YYYAA
+「	卜卜卜日日	YYYAA		》
 」	卜卜卜日月	YYYAB
 『	卜卜卜日金	YYYAC
 』	卜卜卜日木	YYYAD
@@ -18147,4 +18147,4 @@
 ㄦ	卜卜卜卜縱	YYYYL
 ˊ	卜卜卜卜横	YYYYM
 ˇ	卜卜卜卜鈎	YYYYN
-ˋ	卜卜卜卜人	YYYYO
+ˋ	卜卜卜卜人	YYYYO		》
