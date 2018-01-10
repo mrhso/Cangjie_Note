@@ -5,16 +5,16 @@
 曑	日日日斜	AAAH
 曡	日日日横	AAAM
 覸	日日月仰仰	AABUU
-??	日日木横	AADM	IDS：⿰日⿱日本
+�	日日木横	AADM	IDS：⿰日⿱日本
 焸	日日火	AAF
 𭧌	日日火仰	AAFU
 鷼	日日斜日火	AAHAF
 暒	日日斜横	AAHM
 𣈲	日日斜仰	AAHU
-??	日日點水	AAIE	IDS+差量混合表示：⿰日[廄-广]
+�	日日點水	AAIE	IDS+差量混合表示：⿰日[廄-广]
 暥	日日交紐	AAJV
 暘	日日横斜	AAMH
-??	日日鈎	AAN	IDS：⿰日門
+�	日日鈎	AAN	IDS：⿰日門
 𣋆	日日鈎土	AANG
 晹	日日心斜	AAPH
 暍	日日心紐	AAPV
@@ -43,32 +43,32 @@
 冒	日月仰	ABU
 㬬	日月仰土	ABUG
 晛	日月仰仰	ABUU
-??	日金	AC	IDS：⿰日金
-??	日金點	ACI	IDS：⿰显戈
+�	日金	AC	IDS：⿰日金
+�	日金點	ACI	IDS：⿰显戈
 暡	日金點横	ACIM
 晜	日金鈎斜	ACNH
 昐	日金側斜	ACSH
 杲	日木	AD
-??	日木金點	ADCI	IDS：⿱日松
+�	日木金點	ADCI	IDS：⿱日松
 晽	日木木	ADD
 鷴	日木斜日火	ADHAF
 晰	日木斜縱	ADHL
 时	日木點	ADI
-??	日木横	ADM	IDS：⿱日本
+�	日木横	ADM	IDS：⿱日本
 暐	日木横手	ADMQ
 暕	日木方火	ADWF
 鄤	日水鈎縱	AENL
 炅	日火	AF
-??	日火月月	AFBB	IDS：⿰日常
+�	日火月月	AFBB	IDS：⿰日常
 曭	日火月火	AFBF
 暽	日火木手	AFDQ
 晱	日火火	AFF
 影	日火斜斜斜	AFHHH
 顯	日火横月金	AFMBC
 晃	日火横仰	AFMU
-??	日火鈎縱	AFNL	IDS：⿰㬎阝
+�	日火鈎縱	AFNL	IDS：⿰㬎阝
 歞	日火鈎人	AFNO
-??	日火人土	AFOG	IDS：⿰㬎隹
+�	日火人土	AFOG	IDS：⿰㬎隹
 圼	日土	AG
 𣆀	日土月	AGB
 曀	日土月並	AGBT
@@ -79,10 +79,10 @@
 𣇌	日土心	AGP
 暿	日土口口	AGRR
 𣈷	日斜日土	AHAG
-??	日斜日横	AHAM	IDS：⿰日⿱白本
+�	日斜日横	AHAM	IDS：⿰日⿱白本
 晌	日斜月口	AHBR
 眉	日斜月仰	AHBU
-??	日斜木側	AHDS	IDS：⿱日秀
+�	日斜木側	AHDS	IDS：⿱日秀
 昄	日斜水	AHE
 昸	日斜水卜	AHEY
 𬊙	日斜火	AHF
@@ -94,28 +94,28 @@
 剔	日斜縱鈎	AHLN
 昕	日斜横縱	AHML
 暀	日斜人土	AHOG
-??	日斜人點	AHOI	IDS：⿰日待
+�	日斜人點	AHOI	IDS：⿰日待
 敭	日斜人叉	AHOK
 暰	日斜人人	AHOO
 晷	日斜人口	AHOR
 惖	日斜心	AHP
 星	日斜手横	AHQM
 昳	日斜手人	AHQO
-??	日斜手手	AHQQ	IDS：⿱日𢪙
+�	日斜手手	AHQQ	IDS：⿱日𢪙
 晧	日斜手口	AHQR
 昈	日斜側	AHS
 曒	日斜側叉	AHSK
 昇	日斜並	AHT
-??	日斜並火	AHTF	IDS：⿱昇火
+�	日斜並火	AHTF	IDS：⿱昇火
 曍	日斜仰交	AHUJ
-??	日斜紐	AHV	IDS：⿰易女
+�	日斜紐	AHV	IDS：⿰易女
 昂	日斜紐縱	AHVL
 晲	日斜難仰	AHXU
 晷	日斜卜口	AHYR
 晙	日點金水	AICE
-??	日點斜	AIH	IDS：⿱日戊
+�	日點斜	AIH	IDS：⿱日戊
 晟	日點斜側	AIHS
-??	日點點水	AIIE	IDS+差量混合表示：⿲日[郎-阝]殳
+�	日點點水	AIIE	IDS+差量混合表示：⿲日[郎-阝]殳
 晡	日點交月	AIJB
 既	日點横紐仰	AIMVU
 昹	日點鈎水	AINE
@@ -123,8 +123,8 @@
 即	日點側縱	AISL
 昪	日點並	AIT
 曠	日點並金	AITC
-??	日點並火	AITF	IDS：⿰日庶
-??	日點紐	AIV	IDS：⿱日戉
+�	日點並火	AITF	IDS：⿰日庶
+�	日點紐	AIV	IDS：⿱日戉
 早	日交	AJ
 暔	日交月交	AJBJ
 昧	日交木	AJD
@@ -169,11 +169,11 @@
 戥	日横點	AMI
 㬐	日横點日	AMIA
 晊	日横點土	AMIG
-??	日横點斜側	AMIHS	IDS：⿰星成
+�	日横點斜側	AMIHS	IDS：⿰星成
 旱	日横交	AMJ
 昊	日横叉	AMK
 昮	日横叉側	AMKS
-??	日横横火	AMMF	IDS：⿰日示
+�	日横横火	AMMF	IDS：⿰日示
 晸	日横横叉	AMMK
 曬	日横横心	AMMP
 晤	日横横口	AMMR
@@ -182,9 +182,9 @@
 昺	日横人月	AMOB
 鼂	日横口仰	AMRU
 昜	日横側斜	AMSH
-??	日横並	AMT	IDS：⿰日开
+�	日横並	AMT	IDS：⿰日开
 曞	日横並月	AMTB
-??	日横仰日	AMUA	IDS：⿰日朁
+�	日横仰日	AMUA	IDS：⿰日朁
 量	日横方土	AMWG
 曋	日横方交	AMWJ
 昰	日横卜横	AMYM
@@ -201,7 +201,7 @@
 𨶒	日鈎月斜難	ANBHX
 闅	日鈎月仰水	ANBUE
 闃	日鈎月仰叉	ANBUK
-??	日鈎金口	ANCR	IDS：⿵門㕣
+�	日鈎金口	ANCR	IDS：⿵門㕣
 閲	日鈎金口仰	ANCRU
 閑	日鈎木	AND
 閉	日鈎木斜	ANDH
@@ -212,13 +212,13 @@
 闊	日鈎水斜口	ANEHR
 焛	日鈎火	ANF
 闛	日鈎火月土	ANFBG
-??	日鈎火月仰	ANFBU	IDS：⿵門党
+�	日鈎火月仰	ANFBU	IDS：⿵門党
 闣	日鈎火月方	ANFBW
 闂	日鈎火手仰	ANFQU
 閨	日鈎土土	ANGG
 闔	日鈎土點並	ANGIT
-??	日鈎土鈎人	ANGNO	IDS：⿵門坎
-??	日鈎斜日	ANHA	IDS：⿵門白
+�	日鈎土鈎人	ANGNO	IDS：⿵門坎
+�	日鈎斜日	ANHA	IDS：⿵門白
 䦗	日鈎斜月並	ANHBT
 䦭	日鈎斜木日	ANHDA
 昅	日鈎斜水	ANHE
@@ -228,7 +228,7 @@
 閽	日鈎斜心日	ANHPA
 閐	日鈎斜手仰	ANHQU
 闑	日鈎斜仰木	ANHUD
-??	日鈎斜仰交	ANHUJ	IDS：⿵門⿱自夲
+�	日鈎斜仰交	ANHUJ	IDS：⿵門⿱自夲
 𨶑	日鈎斜仰叉	ANHUK
 閰	日鈎斜難	ANHX
 𨉖	日鈎斜難斜	ANHXH
@@ -277,13 +277,13 @@
 闟	日鈎人口横	ANORM
 悶	日鈎心	ANP
 閟	日鈎心斜	ANPH
-??	日鈎手人	ANQO	IDS：⿵門夫
+�	日鈎手人	ANQO	IDS：⿵門夫
 闚	日鈎手人仰	ANQOU
 問	日鈎口	ANR
 閭	日鈎口斜口	ANRHR
 闡	日鈎口口交	ANRRJ
 闆	日鈎口口口	ANRRR
-??	日鈎口難仰	ANRXU	IDS：⿵門黽
+�	日鈎口難仰	ANRXU	IDS：⿵門黽
 聞	日鈎側交	ANSJ
 闖	日鈎側手火	ANSQF
 闢	日鈎側口交	ANSRJ
@@ -296,18 +296,18 @@
 關	日鈎紐點並	ANVIT
 𨳸	日鈎方	ANW
 閫	日鈎方木	ANWD
-??	日鈎方斜木	ANWHD	IDS：⿵門囷
+�	日鈎方斜木	ANWHD	IDS：⿵門囷
 閘	日鈎方縱	ANWL
 闤	日鈎方縱紐	ANWLV
 闥	日鈎卜土手	ANYGQ
 閌	日鈎卜斜鈎	ANYHN
 閍	日鈎卜斜側	ANYHS
-??	日鈎卜斜仰	ANYHU	IDS：⿵門⿱亠儿
+�	日鈎卜斜仰	ANYHU	IDS：⿵門⿱亠儿
 閗	日鈎卜交	ANYJ
 閔	日鈎卜叉	ANYK
 閙	日鈎卜縱月	ANYLB
 誾	日鈎卜横口	ANYMR
-??	日鈎卜口木	ANYRD	IDS：⿵門享
+�	日鈎卜口木	ANYRD	IDS：⿵門享
 閼	日鈎卜側卜	ANYSY
 閚	日鈎卜並	ANYT
 闇	日鈎卜並日	ANYTA
@@ -315,9 +315,9 @@
 𬁔	日人日横交	AOAMJ
 韙	日人木横手	AODMQ
 尟	日人火斜	AOFH
-??	日人土	AOG	IDS：⿱日隹
+�	日人土	AOG	IDS：⿱日隹
 鶗	日人斜日火	AOHAF
-??	日人斜交	AOHJ	IDS：⿺是千
+�	日人斜交	AOHJ	IDS：⿺是千
 昤	日人點點	AOII
 昑	日人點鈎	AOIN
 旿	日人交	AOJ
@@ -325,9 +325,9 @@
 㫻	日人横月	AOMB
 題	日人横月金	AOMBC
 𣈯	日人横鈎	AOMN
-??	日人横口	AOMR	IDS：⿰日合
+�	日人横口	AOMR	IDS：⿰日合
 匙	日人心	AOP
-??	日人口	AOR	IDS：⿱⿰日欠口
+�	日人口	AOR	IDS：⿱⿰日欠口
 昨	日人側	AOS
 𢅨	日人側横月	AOSMB
 𦑡	日人側横横	AOSMM
@@ -353,8 +353,8 @@
 暺	日口口交	ARRJ
 曮	日口口叉	ARRK
 暇	日口側水	ARSE
-??	日口紐心	ARVP	IDS：⿰日民
-??	日側水土	ASEG	IDS：⿰日堅
+�	日口紐心	ARVP	IDS：⿰日民
+�	日側水土	ASEG	IDS：⿰日堅
 煚	日側火	ASF
 旫	日側斜	ASH
 昭	日側斜口	ASHR
@@ -365,20 +365,20 @@
 昵	日側心	ASP
 昛	日側側	ASS
 暱	日側並口	ASTR
-??	日側並並	ASTT	IDS：⿰日屏
+�	日側並並	ASTT	IDS：⿰日屏
 暯	日並日叉	ATAK
 晪	日並月金	ATBC
 曚	日並月人	ATBO
 晎	日並金	ATC
 曗	日並金木	ATCD
 暴	日並金水	ATCE
-??	日並金土	ATCG	IDS：⿱日𡋍
+�	日並金土	ATCG	IDS：⿱日𡋍
 謈	日並金口	ATCR
 𣈸	日並土叉	ATGK
 𪱋	日並土口	ATGR
 曦	日並土側	ATGS
-??	日並土仰	ATGU	IDS：⿰日羌
-??	日並斜鈎	ATHN	IDS：⿱日荇
+�	日並土仰	ATGU	IDS：⿰日羌
+�	日並斜鈎	ATHN	IDS：⿱日荇
 𬀲	日並叉	ATK
 暪	日並縱月	ATLB
 曣	日並縱火	ATLF
@@ -387,24 +387,24 @@
 𣈒	日並横金	ATMC
 曄	日並横交	ATMJ
 𣋭	日並人側	ATOS
-??	日並人紐	ATOV	IDS：⿰日養
-??	日並手仰	ATQU	IDS：⿱日⿰羊毛
-??	日並並	ATT	IDS：⿰日并
+�	日並人紐	ATOV	IDS：⿰日養
+�	日並手仰	ATQU	IDS：⿱日⿰羊毛
+�	日並並	ATT	IDS：⿰日并
 𪱋	日並並口	ATTR
 𬁍	日並仰點	ATUI
-??	日並難金	ATXC	IDS：⿰日兼
+�	日並難金	ATXC	IDS：⿰日兼
 巴	日仰	AU
 暨	日仰日横	AUAM
 㮣	日仰木	AUD
 㫞	日仰水	AUE
 塈	日仰土	AUG
 毷	日仰斜手仰	AUHQU
-??	日仰交火	AUJF	IDS：⿰日崇
+�	日仰交火	AUJF	IDS：⿰日崇
 勖	日仰叉側	AUKS
 暟	日仰横並	AUMT
 郿	日仰鈎縱	AUNL
 鱀	日仰鈎方火	AUNWF
-??	日仰心	AUP	IDS：⿱⿰日㔾心
+�	日仰心	AUP	IDS：⿱⿰日㔾心
 岊	日仰仰	AUU
 艮	日紐	AV
 鶡	日紐斜日火	AVHAF
@@ -413,22 +413,22 @@
 𣇓	日紐横縱	AVML
 㫽	日紐鈎水	AVNE
 歇	日紐鈎人	AVNO
-??	日方叉	AWK	IDS：⿰日因
+�	日方叉	AWK	IDS：⿰日因
 曙	日方縱日	AWLA
 曼	日方縱水	AWLE
 曎	日方縱交	AWLJ
-??	日方並交	AWTJ	IDS：⿰日畢
+�	日方並交	AWTJ	IDS：⿰日畢
 晫	日卜日交	AYAJ
 曨	日卜月心	AYBP
 昗	日卜金	AYC
-??	日卜木點	AYDI	IDS：⿰日孰
+�	日卜木點	AYDI	IDS：⿰日孰
 暾	日卜木叉	AYDK
 昉	日卜斜側	AYHS
 旻	日卜叉	AYK
-??	日卜縱月	AYLB	IDS：⿰日市
+�	日卜縱月	AYLB	IDS：⿰日市
 曃	日卜縱水	AYLE
 晬	日卜人交	AYOJ
-??	日卜心横	AYPM	IDS：⿰日虛
+�	日卜心横	AYPM	IDS：⿰日虛
 暠	日卜口月	AYRB
 景	日卜口火	AYRF
 曩	日卜口紐	AYRV
@@ -438,8 +438,8 @@
 曈	日卜並土	AYTG
 暲	日卜並交	AYTJ
 𪱍	日卜並心	AYTP
-??	日卜並口	AYTR	IDS：⿰日咅
-??	日卜並仰	AYTU	IDS：⿰日竟
+�	日卜並口	AYTR	IDS：⿰日咅
+�	日卜並仰	AYTU	IDS：⿰日竟
 𣌪	日卜紐	AYV
 昡	日卜紐點	AYVI
 𣋠	日卜難	AYX
@@ -462,7 +462,7 @@
 脟	月月木點	BBDI
 受	月月水	BBE
 髐	月月土土仰	BBGGU
-??	月月土方金	BBGWC	IDS：⿰骨賣
+�	月月土方金	BBGWC	IDS：⿰骨賣
 鶻	月月斜日火	BBHAF
 骼	月月斜水口	BBHER
 鵬	月月斜火	BBHF
@@ -487,13 +487,13 @@
 骾	月月横縱叉	BBMLK
 胴	月月横口	BBMR
 脬	月月鈎木	BBND
-??	月月鈎火	BBNF	IDS：⿳爫冖魚
+�	月月鈎火	BBNF	IDS：⿳爫冖魚
 䯕	月月鈎叉土	BBNKG
 舜	月月鈎手	BBNQ
 骱	月月人縱縱	BBOLL
 𦞼	月月人仰	BBOU
 愛	月月心水	BBPE
-??	月月手交横	BBQJM	IDS：⿰骨彗
+�	月月手交横	BBQJM	IDS：⿰骨彗
 咼	月月口	BBR
 髒	月月並横並	BBTMT
 髊	月月並手横	BBTQM
@@ -506,7 +506,7 @@
 脮	月月紐	BBV
 髁	月月方木	BBWD
 髑	月月方縱點	BBWLI
-??	月月方縱人	BBWLO	IDS：⿰骨眾
+�	月月方縱人	BBWLO	IDS：⿰骨眾
 髈	月月卜月側	BBYBS
 骹	月月卜金叉	BBYCK
 骯	月月卜斜鈎	BBYHN
@@ -517,28 +517,28 @@
 骸	月月卜紐人	BBYVO
 賵	月金日月仰	BCABU
 賜	月金日心斜	BCAPH
-??	月金日心心	BCAPP	IDS：⿰貝昆
+�	月金日心心	BCAPP	IDS：⿰貝昆
 贔	月金月金金	BCBCC
 賝	月金月金木	BCBCD
 賙	月金月土口	BCBGR
 賱	月金月交交	BCBJJ
-??	月金月鈎木	BCBND	IDS：⿰貝孚
+�	月金月鈎木	BCBND	IDS：⿰貝孚
 賙	月金月手口	BCBQR
 賏	月金月仰金	BCBUC
 覭	月金月仰仰	BCBUU
-??	月金金横側	BCCMS	IDS：⿰貝兮
+�	月金金横側	BCCMS	IDS：⿰貝兮
 𬥏	月金金側斜	BCCSH
 贈	月金金方日	BCCWA
 罙	月金木	BCD
 財	月金木斜	BCDH
-??	月金木方	BCDW	IDS：⿰貝東
-??	月金木方火	BCDWF	IDS：⿰貝柬
+�	月金木方	BCDW	IDS：⿰貝東
+�	月金木方火	BCDWF	IDS：⿰貝柬
 贘	月金火月金	BCFBC
 𧸍	月金火木手	BCFDQ
 賧	月金火火	BCFF
 䞉	月金火手金	BCFQC
-??	月金火手水	BCFQE	IDS：⿰貝𣳾
-??	月金土點	BCGI	IDS：⿰貝去
+�	月金火手水	BCFQE	IDS：⿰貝𣳾
+�	月金土點	BCGI	IDS：⿰貝去
 贖	月金土方金	BCGWC
 鵙	月金斜日火	BCHAF
 賉	月金斜月並	BCHBT
@@ -547,7 +547,7 @@
 𬥘	月金斜土口	BCHGR
 貶	月金斜點人	BCHIO
 𧵳	月金斜交口	BCHJR
-??	月金斜横縱	BCHML	IDS：⿰冥斤
+�	月金斜横縱	BCHML	IDS：⿰冥斤
 貾	月金斜心横	BCHPM
 貹	月金斜手横	BCHQM
 㲘	月金斜手仰	BCHQU
@@ -568,13 +568,13 @@
 賩	月金交横火	BCJMF
 貯	月金交横鈎	BCJMN
 賄	月金叉月	BCKB
-??	月金叉叉土	BCKKG	IDS+差量混合表示：⿱㓁[𡙔-土]
+�	月金叉叉土	BCKKG	IDS+差量混合表示：⿱㓁[𡙔-土]
 賗	月金縱縱	BCLL
 贃	月金縱縱心	BCLLP
 贐	月金縱横並	BCLMT
 則	月金縱鈎	BCLN
 𫎏	月金横木	BCMD
-??	月金横土點	BCMGI	IDS：⿰貝玉
+�	月金横土點	BCMGI	IDS：⿰貝玉
 罕	月金横交	BCMJ
 𧵳	月金横交口	BCMJR
 貦	月金横横仰	BCMMU
@@ -584,7 +584,7 @@
 贉	月金横方交	BCMWJ
 贍	月金鈎金口	BCNCR
 鄍	月金鈎縱	BCNL
-??	月金人點點	BCOII	IDS：⿰貝令
+�	月金人點點	BCOII	IDS：⿰貝令
 賶	月金人點口	BCOIR
 罌	月金人交仰	BCOJU
 敗	月金人叉	BCOK
@@ -607,7 +607,7 @@
 𧸡	月金並土點	BCTGI
 購	月金並並月	BCTTB
 賺	月金並難金	BCTXC
-??	月金仰仰叉	BCUUK	IDS：⿰貝𣁋
+�	月金仰仰叉	BCUUK	IDS：⿰貝𣁋
 嬰	月金紐	BCV
 𧸏	月金方縱金	BCWLC
 貥	月金卜斜鈎	BCYHN
@@ -644,7 +644,7 @@
 騰	月火手火	BFQF
 塍	月火手土	BFQG
 螣	月火手點	BFQI
-??	月火手手	BFQQ	IDS+差量混合表示：⿸[勝-力][奉-𡗗]
+�	月火手手	BFQQ	IDS+差量混合表示：⿸[勝-力][奉-𡗗]
 謄	月火手口	BFQR
 勝	月火手側	BFQS
 腃	月火手仰	BFQU
@@ -678,7 +678,7 @@
 貌	月斜斜日仰	BHHAU
 貉	月斜斜水口	BHHER
 肜	月斜斜斜	BHHH
-??	月斜斜交	BHHJ	IDS：⿰豸千
+�	月斜斜交	BHHJ	IDS：⿰豸千
 䝘	月斜斜鈎水	BHHNE
 脈	月斜斜紐	BHHV
 貏	月斜斜方交	BHHWJ
