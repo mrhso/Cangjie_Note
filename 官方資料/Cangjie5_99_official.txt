@@ -15505,7 +15505,7 @@
 嫂	紐斜難水	VHXE
 ??	紐斜難土	VHXG
 婗	紐斜難仰	VHXU
-⼳	紐點	VI
+幺	紐點	VI
 娘	紐點日紐	VIAV
 嬤	紐點金點	VICI
 ??	紐點金卜	VICY

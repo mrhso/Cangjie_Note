@@ -1,3 +1,5 @@
+此碼表存在強制 Big-5 化問題，由於沒有掃描原稿，無法完全修正。
+
 字符	87 五代	註釋
 日	a
 曰	a
@@ -873,7 +875,7 @@
 鍉	camo
 甑	camvn
 鍆	can
-	cana
+鐧	cana
 鄫	canl
 鑭	canw
 錫	caph
@@ -3670,7 +3672,7 @@
 壇	gywm
 壞	gywv
 竹	h
-	h
+丿	h
 白	ha
 馧	haabt
 皭	habwi
@@ -3910,7 +3912,7 @@
 穟	hdyto
 穧	hdyx
 反	he
-	he
+夊	he
 篞	heag
 簜	heah
 篞	heam
@@ -3997,10 +3999,10 @@
 軂	hhffs
 筶	hhgr
 筅	hhgu
-	hhh
+彡	hhh
 鵹	hhhaf
 躲	hhhnd
-	hhho
+辵	hhho
 犁	hhhq
 箠	hhjm
 軉	hhjmc
@@ -4439,7 +4441,7 @@
 笢	hrvp
 烏	hryf
 戶	hs
-	hs
+勹	hs
 肩	hsb
 扃	hsbr
 扁	hsbt
@@ -4686,7 +4688,7 @@
 廄	iaiu
 良	iav
 禸	ib
-	ib
+宀	ib
 廁	ibcn
 廮	ibcv
 尃	ibdi
@@ -4860,7 +4862,7 @@
 廊	iiil
 剷	iiln
 剆	iiln
-	iim
+疒	iim
 郎	iinl
 欴	iino
 庬	iiuh
@@ -4899,8 +4901,8 @@
 庚	ilo
 賡	iloc
 唐	ilr
-	im
-	im
+冫	im
+亠	im
 凋	imbgr
 凈	imbsd
 凎	imc
@@ -5955,7 +5957,7 @@
 盅	lbt
 幙	lbtak
 幪	lbtbo
-	lbtco
+幞	lbtco
 帡	lbtt
 幭	lbtwi
 冘	lbu
@@ -5975,7 +5977,7 @@
 被	ldhe
 袂	ldk
 褘	ldmq
-	le
+隶	le
 褬	leed
 裰	leee
 衩	lei
@@ -6365,7 +6367,7 @@
 褾	lmwf
 褼	lmwu
 鬥	ln
-	ln
+冖	ln
 襐	lnao
 費	lnbuc
 襜	lncr
@@ -6412,7 +6414,7 @@
 裎	lrmg
 襙	lrrd
 襌	lrrj
-	ls
+冂	ls
 褗	lsav
 初	lsh
 袑	lshr
@@ -6885,7 +6887,7 @@
 憨	mkp
 吞	mkr
 功	mks
-	mku
+无	mku
 嬮	mkv
 黶	mkwgf
 厴	mkwl
@@ -7255,7 +7257,7 @@
 朁	mua
 蠶	muali
 襾	mub
-	muf
+炁	muf
 夏	muhe
 戛	mui
 奡	mukll
@@ -7267,7 +7269,7 @@
 邧	munl
 卼	munmu
 畫	muw
-	mv
+匚	mv
 脣	mvb
 牙	mvdh
 辱	mvdi
@@ -7390,7 +7392,7 @@
 厗	mytj
 丐	myvs
 弓	n
-	n
+亅	n
 兔	nahi
 免	nahu
 象	napo
@@ -7649,7 +7651,7 @@
 夗	nisu
 外	niy
 謽	niymr
-	niyo
+癶	niyo
 鳵	njhaf
 蝨	njlii
 又	nk
@@ -7780,7 +7782,7 @@
 疏	nmdl
 彌	nmfb
 蜑	nmlmi
-	nmm
+彐	nmm
 弱	nmnim
 郔	nmnl
 鶸	nmnmf
@@ -7790,7 +7792,7 @@
 彊	nmwm
 疏	nmyiu
 了	nn
-	nnk
+廴	nnk
 孑	nnm
 預	nnmbc
 鬻	nnmrb
@@ -8312,7 +8314,7 @@
 仍	onhs
 俑	onib
 侈	onin
-	onin
+伃	onin
 氪	onjru
 氨	onjv
 侹	onkg
@@ -9598,7 +9600,7 @@
 呼	rhfd
 呈	rhg
 哠	rhgr
-	rhhe
+嚟	rhhe
 吆	rhi
 咮	rhjd
 唾	rhjm
@@ -9973,7 +9975,7 @@
 咰	rpa
 咇	rph
 吻	rphh
-	rphp
+唿	rphp
 刡	rpln
 呁	rpmm
 敃	rpok
@@ -10505,7 +10507,7 @@
 尹	sk
 尻	skn
 君	skr
-	sl
+卩	sl
 匝	slb
 屢	sllv
 頤	slmbc
@@ -12252,8 +12254,8 @@
 媲	vhwp
 嫂	vhxe
 婗	vhxu
-	vi
-	vi
+幺	vi
+厶	vi
 娘	viav
 嬤	vici
 樂	vid
@@ -12484,7 +12486,7 @@
 姒	vvio
 邕	vvrau
 姦	vvv
-	vvv
+巛	vvv
 甾	vvw
 巢	vvwd
 媦	vwb
@@ -12848,7 +12850,7 @@
 欯	xgrno
 嘉	xgrtr
 垶	xgytj
-	xh
+丿	xh
 馫	xhaha
 癿	xhau
 爂	xhbf
@@ -12864,7 +12866,7 @@
 剁	xhdln
 秞	xhdlw
 鄡	xhdnl
-	xhe
+夊	xhe
 釆	xhfd
 簃	xhhdn
 簁	xhhoo
@@ -12887,7 +12889,7 @@
 鴰	xhrha
 劄	xhrln
 郈	xhrnl
-	xhs
+勹	xhs
 籊	xhsmg
 笸	xhsr
 鶞	xhuha
@@ -12899,7 +12901,7 @@
 箎	xhypu
 笘	xhyr
 、	xi
-	xib
+宀	xib
 鷛	xibha
 鄘	xibnl
 鄬	xifnl
@@ -12908,7 +12910,7 @@
 剆	xiiln
 庋	xije
 義	xik
-	xim
+亠	xim
 栥	xiod
 庀	xip
 麃	xipf
@@ -12952,7 +12954,7 @@
 蚓	xlijm
 蝆	xlitq
 衶	xll
-	xln
+冖	xln
 冑	xlwb
 裍	xlwd
 鸍	xmbha
@@ -12985,7 +12987,7 @@
 礣	xmrtw
 郖	xmtnl
 堙	xmwg
-	xn
+亅	xn
 弝	xnau
 墮	xnbg
 觔	xnbks
@@ -13021,7 +13023,7 @@
 嵞	xomdu
 侲	xommv
 气	xomn
-	xonin
+伃	xonin
 伄	xonl
 倠	xoog
 伈	xop
@@ -13202,11 +13204,11 @@
 絻	xvfna
 您	xvfp
 姅	xvfq
-	xvi
+厶	xvi
 槳	xvid
 婝	xvjmo
 姼	xvnin
-	xvvv
+巛	xvvv
 困	xwd
 鷝	xwjha
 囮	xwop
@@ -13350,7 +13352,7 @@
 敦	ydok
 敹	ydok
 嚲	ydrrj
-	ye
+攴	ye
 督	yebu
 錖	yec
 粲	yefd
@@ -13379,7 +13381,7 @@
 遠	ygrv
 遨	ygsk
 達	ygtq
-	yh
+广	yh
 迫	yha
 鳪	yhaf
 遑	yhag
@@ -13466,7 +13468,7 @@
 斖	ykhbm
 逖	ykhf
 逛	ykhg
-	ykhhh
+彣	ykhhh
 斒	ykhsb
 效	ykks
 蠃	yklmi
@@ -14189,26 +14191,26 @@
 〦	yyygl
 〧	yyygm
 〨	yyygn
-	yyyha
-	yyyhb
-	yyyhc
-	yyyhd
-	yyyhe
-	yyyhf
-	yyyhg
-	yyyhh
-	yyyhi
-	yyyhj
-	yyyhk
-	yyyhl
-	yyyhm
-	yyyhn
-	yyyho
-	yyyhp
-	yyyhq
-	yyyhr
-	yyyhs
-	yyyht
+①	yyyha
+②	yyyhb
+③	yyyhc
+④	yyyhd
+⑤	yyyhe
+⑥	yyyhf
+⑦	yyyhg
+⑧	yyyhh
+⑨	yyyhi
+⑩	yyyhj
+⑴	yyyhk
+⑵	yyyhl
+⑶	yyyhm
+⑷	yyyhn
+⑸	yyyho
+⑹	yyyhp
+⑺	yyyhq
+⑻	yyyhr
+⑼	yyyhs
+⑽	yyyht
 ㄅ	yyyxa
 ㄆ	yyyxb
 ㄇ	yyyxc
