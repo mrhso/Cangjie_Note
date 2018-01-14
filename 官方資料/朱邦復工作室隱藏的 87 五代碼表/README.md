@@ -4,5 +4,5 @@
 於是骨折群「大海撈針」，找到了地址。又陸續扒出了繁倉碼表。
 
 ### 來源
-[繁倉碼表](http://www.cbflabs.com/down/show.php?id=70)
-[簡倉碼表](http://www.cbflabs.com/down/show.php?id=71)
+- [繁倉碼表](http://www.cbflabs.com/down/show.php?id=70)
+- [簡倉碼表](http://www.cbflabs.com/down/show.php?id=71)
