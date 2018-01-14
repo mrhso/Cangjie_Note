@@ -4476,7 +4476,7 @@
 簸	htce
 簊	htcg
 鷑	hthaf
-眾	hthho
+衆	hthho
 箬	htkr
 簧	htlc
 箕	htmc
@@ -5452,7 +5452,7 @@
 悹	jrrp
 嘏	jrrse
 辜	jrytj
-冤	jshi
+寃	jshi
 宭	jskr
 宦	jsll
 寥	jsmh
@@ -8372,7 +8372,7 @@
 佮	oomr
 仡	oon
 歛	oono
-眾	ooo
+众	ooo
 侳	ooog
 傘	oooj
 斂	oook
@@ -13419,7 +13419,7 @@
 衣	yhv
 迎	yhvl
 邍	yhwe
-廉	yhxc
+亷	yhxc
 裒	yhxv
 遞	yhyu
 育	yib

@@ -6076,7 +6076,7 @@
 ??	斜並火手	HTFQ
 ??	斜並土	HTG
 鷑	斜並斜日火	HTHAF
-眾	斜並斜斜人	HTHHO
+衆	斜並斜斜人	HTHHO
 ??	斜並斜斜紐	HTHHV
 箬	斜並叉口	HTKR
 簧	斜並縱金	HTLC
@@ -7288,7 +7288,7 @@
 悹	交口口心	JRRP
 嘏	交口口側水	JRRSE
 辜	交口卜並交	JRYTJ
-冤	交側斜點	JSHI
+寃	交側斜點	JSHI
 宭	交側叉口	JSKR
 宦	交側縱縱	JSLL
 寥	交側横斜	JSMH
@@ -10904,7 +10904,7 @@
 ??	人人横紐	OOMV
 仡	人人鈎	OON
 歛	人人鈎人	OONO
-眾	人人人	OOO
+众	人人人	OOO
 侳	人人人土	OOOG
 傘	人人人交	OOOJ
 斂	人人人叉	OOOK
@@ -17184,7 +17184,7 @@
 衣	卜斜紐	YHV
 迎	卜斜紐縱	YHVL
 邍	卜斜方水	YHWE
-廉	卜斜難金	YHXC
+亷	卜斜難金	YHXC
 ??	卜斜難水	YHXE
 裒	卜斜難紐	YHXV
 ??	卜斜卜水	YHYE
