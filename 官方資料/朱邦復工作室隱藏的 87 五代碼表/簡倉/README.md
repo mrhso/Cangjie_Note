@@ -4,7 +4,7 @@ _取自[朱邦复工作室](http://www.cbflabs.com/down/show.php?id=71)_
 ## 一、第五代仓颉输入法说明
 1. 适用操作系统：简体 Windows 9x 与简体 Windows NT 4.x。
 2. 适用中文内码：简体中文 GB 码。
-3. CJ5GB.TXT: 第五代仓颉输入法对照表。
+3. CJ5GB.TXT：第五代仓颉输入法对照表。
 
 ## 二、CJ5GB.TXT 使用注意事项：
 1. 对照表之内容
@@ -39,3 +39,41 @@ _取自[朱邦复工作室](http://www.cbflabs.com/down/show.php?id=71)_
 2. 在「输入法生成器」中，选择 <浏览(W)> 按钮，选取 cj5gb.txt 文件后，<br>![](http://img.vim-cn.com/84/60186540956bb7d302c3fa1a818947cee5f7ff.jpg)
 3. 点选 <转换(V)> 按钮后，再按 <创建(C)> 按钮，输入版本号，及机构名称后，更改输入法功能设置，按 <确定> 后，输入法安装完成。<br>![](http://img.vim-cn.com/5f/80d1756c4814ad5ece732cc0b52d588f1775c2.jpg)
 4. 使用者可以使用《第五代仓颉输入法》了，也可设定自己惯用的操作方式。<br>如快速键、查询组字字根等。
+
+## 附录 A：输入法生成器程序安装说明
+1. 选择 Windows 控制面板中 [添加/删除程序] 图标，选择 <Windows 安装程序><br>![](http://img.vim-cn.com/4a/163df9a7523137dd2d143a5726391e6c25ef71.jpg)
+2. 双击 [附件]，选择输入法生成器，并确定后返回，按 1 中 <确定> 按钮安装输入法生成器程序。（注意不要更改其他项目！）<br>![](http://img.vim-cn.com/60/b37466cf071484500c35df8f3aaaa926bec01c.jpg)
+3. 在重新启动 Windows 后执行 [附件] 中的 <输入法生成器> 程序。
+
+## 附录 B：码表原文件格式
+### [Description] 区段
+
+该区段描述了目标输入法的基本属性，包括六个入口。
+
+### [Rule] 区段
+
+该区段描述了目标输入法的构词规则。构词规则是由若干构词规则表达式组成，下面给出构词规则表达式的定义：
+
+> c[逻辑符][词语长度]= {[序号标识][汉字序号][取码序号]+<br>{[序号标识][汉字序号][取码序号]+<br>{[序号标识][汉字序号][取码序号]+…}}}
+
+说明：
+
+实例：
+
+ce2=p11+p12+p21+p22 表示二字词，取第一字的第一、二码，第二字的第一、二码。
+
+ce2=cp10+cp20 表示二字词，取第一字的所有码和第二字的所有码。
+
+ca4=p11=p21=p31=n11 表示四字以及四字以上的词，取第一字的第一码，第二字的第一码，第三字的第一码，和倒数第一字的第一码。
+
+### 码表实例
+
+> [Description]<br>Name=仓颉第五代<br>MaxCodes=5<br>MaxElement=1<br>UsedCodes=abcdefghijklmnopqrstuvwxy<br>WildChar=0<br>NumRules=0<br>[Rule]<br>[Text]<br>日a <br>曰a <br>昌aa <br>晶aaa <br>曝aate <br>明ab <br>暝abac <br>暧abbe <br>盟abbt <br>晕abkq <br>晖abkq <br>暖abme <br>冒abu <br>杲ad <br>晰adhl <br>时adi <br>炅af <br>…
+
+### 备注：
+1. 码表原文件可以只有 [Text] 区段，[Description] 和 [Rule] 可以省略，留待创建输入法时填写。
+2. 感谢仓颉之友·大马站长协助校对。
+
+## 说明
+- 内文所提及的公司、产品均分属各相关公司的商标或注册商标。
+- Windows 9x 与 Windows NT 4.x 是美国微软公司（Microsoft）的产品。
