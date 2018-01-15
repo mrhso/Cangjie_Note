@@ -1,3 +1,4 @@
+# 警告：嚴禁擅自將此項目內含資料盜到別處！
 # Cangjie_Note
 [简化字版说明](https://github.com/mrhso/Cangjie_Note/blob/master/README-hans.md)
 
