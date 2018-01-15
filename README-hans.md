@@ -1,3 +1,4 @@
+# 警告：严禁擅自将此项目内含资料盗到别处！
 # Cangjie_Note
 [傳統漢字版說明](https://github.com/mrhso/Cangjie_Note/blob/master/README.md)
 
