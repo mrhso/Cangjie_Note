@@ -1,0 +1,13 @@
+image: alpine:latest
+
+pages:
+  stage: deploy
+  script:
+  - mkdir .website
+  - cp -r * .website
+  - mv .website website
+  artifacts:
+    paths:
+    - website
+  only:
+  - master
