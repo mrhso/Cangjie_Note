@@ -6,6 +6,7 @@ pages:
   - mkdir .public
   - cp -r * .public
   - mv .public public
+  - ls "public/website"
   artifacts:
     paths:
     - public
