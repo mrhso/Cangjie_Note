@@ -48,7 +48,6 @@
 ## 遠程倉庫總表
 - [GitHub](https://github.com/mrhso/Cangjie_Note)
 - [GitLab](https://gitlab.com/mrhso/Cangjie_Note)
-- [Coding](https://coding.net/u/mrhso/p/Cangjie_Note/git)
 - [碼雲](https://gitee.com/mrhso/Cangjie_Note)
 - [Bitbucket](https://bitbucket.org/mrhso/cangjie_note)
 - [Visual Studio Team Services](https://mrhso.visualstudio.com/Cangjie_Note)
