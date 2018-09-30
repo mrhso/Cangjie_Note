@@ -1,4 +1,6 @@
-# 論「噴火的龍」與 E 式思維_（著：老楊）_
+# 論「噴火的龍」與 E 式思維
+_著：[老楊](https://github.com/Arthurmcarthur)_
+
 _小標題是 Ishisashi 加的。_
 
 ## 前言：噴火的龍
