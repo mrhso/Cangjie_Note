@@ -12771,7 +12771,7 @@
 燴	FOWA	FOMA
 烸	FOWY	FOWY
 &~FP;	FP	FP
-㶷	FPA	FPA	另有 Unicode 重複字「𤈎」。
+㶷	FPA	FPA	原文另有標記 UCS 重複字「𤈎」。
 &~FPA1;	FPA1	XFPA
 &~FPBC;	FPBC	FPBC
 灺	FPD	FPD
@@ -48855,7 +48855,7 @@
 嘮	RFFS	RFFS
 &~RFFU;	RFFU	RFFU
 &~RFFU1;	RFFU1	XRFFU
-𡀘	RFFV	RFFV	另有 Unicode 重複字「𡀼」。
+𡀘	RFFV	RFFV	原文另有標記 UCS 重複字「𡀼」。
 㘍	RFGI	RFGI
 &~RFGNL;	RFGNL	XXRGN
 吵	RFH	RFH
