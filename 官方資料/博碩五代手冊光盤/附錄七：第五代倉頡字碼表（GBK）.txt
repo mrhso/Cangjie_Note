@@ -14368,7 +14368,7 @@
 貭	D8A0	斜交月金	HJBC
 亍	D8A1	橫橫鉤	MMN
 丌	D8A2	橫縱	ML
-兀	D8A3	橫仰	MU
+兀	D8A3	橫仰	MU	Big-5 的 0xA461，在 Big-5 有重複字 0xC94A。
 丐	D8A4	橫卜紐側	MYVS
 廿	D8A5	並	T
 卅	D8A6	並交	TJ
@@ -20936,7 +20936,7 @@
 秊	FD9E	重斜木斜交	XHDHJ
 裏	FD9F	卜方土紐	YWGV
 隣	FDA0	鉤縱火木手	NLFDQ
-兀	FE40	橫仰	MU	Big-5 的 0xA461，在 Big-5 有重複字 0xC94A。
+兀	FE40	橫仰	MU
 兀	FE40	重橫仰	XMU	Big-5 的 0xC94A，為 Big-5 中 0xA461 的重複字。
 﨎	FE42	卜土水	YGE
 﨏	FE43	土金金口	GCCR
