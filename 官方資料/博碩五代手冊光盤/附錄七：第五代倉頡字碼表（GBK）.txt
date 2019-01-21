@@ -6469,7 +6469,7 @@
 瓨	AD98	橫橫紐鉤	MMVN
 瓩	AD99	橫鉤斜交	MNHJ
 瓪	AD9A	橫鉤斜水	MNHE
-瓫	AD9B	重金側斜仰	XCSHU	CSHU	查詢內碼表或漢文庫典可知，「瓫」為「XCSHN」而非「XCSHU」，不過沒有「CSHN」，不知為何要避重。
+瓫	AD9B	重金側斜仰	XCSHU	CSHU	查詢內碼表或漢文庫典可知，「瓫」為「XCSHN」而非「XCSHU」，此處可能是二代殘留；不過沒有「CSHN」，不知為何要避重。
 瓬	AD9C	卜側橫紐鉤	YSMVN
 瓭	AD9D	縱仰橫紐鉤	LUMVN
 瓰	AD9E	橫鉤金側斜	MNCSH
@@ -20937,7 +20937,7 @@
 秊	FD9E	重斜木斜交	XHDHJ	HDHJ
 裏	FD9F	卜方土紐	YWGV
 隣	FDA0	鉤縱火木手	NLFDQ
-兀	FE40	橫仰	MU		Big-5 的 0xC94A，為 Big-5 中 0xA461 的重複字。
+兀	FE40	橫仰	MU		查詢漢文庫典可知為「MU1/XMU」與「MU」的混合產物，映射隨 「MU1/XMU」映射到 Big-5 的 0xC94A，倉頡碼取「MU」。
 兀	FE40	重橫仰	XMU	MU	Big-5 的 0xC94A，為 Big-5 中 0xA461 的重複字。
 﨎	FE42	卜土水	YGE
 﨏	FE43	土金金口	GCCR
