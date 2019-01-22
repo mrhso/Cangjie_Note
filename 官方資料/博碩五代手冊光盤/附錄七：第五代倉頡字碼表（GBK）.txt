@@ -1,7 +1,7 @@
 本文檔為博碩五代手冊的附錄七「第五代倉頡字碼表（國標擴展碼〔ＧＢＫ〕）」之文本化。
 原文分為「8140~8FFE」、「9040~9FFE」、「A040~AFA0」、「B040~BFFE」、「C040~CFFE」、「D040~DFFE」、「E040~EFFE」、「F040~FEA0」共 8 个部分，本表合併。
 這表的中文字母「難」全成「重」了，原文如此，，，
-特別注意，表中「五倉重碼」一列是漢文庫典數據，表示非避重取碼。並非原文就有的數據。
+特別注意，表中「五倉重碼」一列參考漢文庫典數據，表示非避重取碼。並非原文就有的數據。
 
 字符	GBK 碼	03 五代（中文字母）	03 五代（英文字母）	五倉重碼	註釋
 丂	8140	橫紐側	MVS
@@ -12970,7 +12970,7 @@
 裋	D156	縱橫口並	LMRT
 裌	D157	縱叉人人	LKOO
 裍	D158	重縱方木	XLWD	LWD
-裏	D159	重卜方土紐	XYWGV	YWGV
+裏	D159	重卜方土紐	XYWGV	YWGV	官方瞎對應 GBK 而產生的重複字。
 裐	D15A	縱口月	LRB
 裑	D15B	縱斜重斜	LHXH
 裓	D15C	縱點並	LIT
@@ -17901,7 +17901,7 @@
 隠	EB4C	鉤縱月側心	NLBSP
 隡	EB4D	鉤縱卜斜橫	NLYHM
 隢	EB4E	鉤縱土土仰	NLGGU
-隣	EB4F	重鉤縱火木	XNLFD	NLFDQ
+隣	EB4F	重鉤縱火木	XNLFD	NLFDQ	官方瞎對應 GBK 而產生的重複字。
 隤	EB50	鉤縱縱橫金	NLLMC
 隥	EB51	鉤縱鉤人並	NLNOT
 隦	EB52	鉤縱側口交	NLSRJ
@@ -18020,7 +18020,7 @@
 朊	EBC3	月橫橫仰	BMMU
 肽	EBC4	重月叉點	XBKI	BKI
 肱	EBC5	月叉點	BKI
-牖	EBC5	縱側點側月	LSISB		GBK 碼應對應「EBBB」。陸標。
+牖	EBC5	縱側點側月	LSISB		GBK 碼應對應 0xEBBB。陸標。
 肫	EBC6	月心仰	BPU
 肭	EBC7	月人月	BOB
 肴	EBC8	叉叉月	KKB
@@ -20932,21 +20932,21 @@
 龣	FD99	人月鉤橫水	OBNME
 龤	FD9A	人月心心日	OBPPA
 龥	FD9B	人月橫月金	OBMBC
-郎	FD9C	重點紐鉤縱	XIVNL	IVNL
-凉	FD9D	重點橫卜口	XIMYR	IMYRF
-秊	FD9E	重斜木斜交	XHDHJ	HDHJ
-裏	FD9F	卜方土紐	YWGV
-隣	FDA0	鉤縱火木手	NLFDQ
-兀	FE40	橫仰	MU		查詢漢文庫典可知為「MU1/XMU」與「MU」的混合產物，映射隨 「MU1/XMU」映射到 Big-5 的 0xC94A，倉頡碼取「MU」。
-兀	FE40	重橫仰	XMU	MU	Big-5 的 0xC94A，為 Big-5 中 0xA461 的重複字。
+郎	FD9C	重點紐鉤縱	XIVNL	IVNL	兼容字。
+凉	FD9D	重點橫卜口	XIMYR	IMYRF	兼容字。
+䄭	FD9E	重斜木斜交	XHDHJ	HDHJ	「䄭」並不在 GBK，而 0xFD9E 其實是兼容字「秊」（並沒有單獨對應倉頡內碼，與「秊」共用）。
+裏	FD9F	卜方土紐	YWGV	「YWGV」是來源於 Big-5 的正常「裏」，但 0xFD9F 其實是兼容字「裏」（也沒有單獨對應倉頡內碼）。
+隣	FDA0	鉤縱火木手	NLFDQ	「NLFDQ」是來源於 HKSCS 的正常「隣」，但 0xFDA0 其實是兼容字「隣」（仍沒有單獨對應倉頡內碼）。
+兀	FE40	橫仰	MU		兼容字。查詢漢文庫典可知為「MU1/XMU」與「MU」的混合產物，映射隨 「MU1/XMU」映射到 Big-5 的 0xC94A，倉頡碼取「MU」。
+兀	FE40	重橫仰	XMU	MU	兼容字。Big-5 的 0xC94A，為 Big-5 中 0xA461 的重複字。
 﨎	FE42	卜土水	YGE
 﨏	FE43	土金金口	GCCR
 﨑	FE44	重重仰卜並	XXUYT	UYTR
 﨓	FE45	木並人點	DTOI
 﨔	FE46	重木火金手	XDFCQ	DFCQ
-礼	FE47	橫火仰	MFU
+礼	FE47	橫火仰	MFU	兼容字。
 﨟	FE48	並月日紐	TBAV
-蘒	FE49	重並斜木仰	XTHDU	THDU
+蘒	FE49	重並斜木仰	XTHDU	THDU	兼容字。
 﨡	FE4A	縱點斜手橫	LIHQM
 﨣	FE4B	土人卜交	GOYJ
 﨤	FE4C	卜鉤斜水	YNHE
