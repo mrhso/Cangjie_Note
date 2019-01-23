@@ -20932,21 +20932,21 @@
 龣	FD99	人月鉤橫水	OBNME
 龤	FD9A	人月心心日	OBPPA
 龥	FD9B	人月橫月金	OBMBC
-郎	FD9C	重點紐鉤縱	XIVNL	IVNL	兼容字。
-凉	FD9D	重點橫卜口	XIMYR	IMYRF	兼容字。
+郞	FD9C	重點紐鉤縱	XIVNL	IVNL	來源於兼容字「郎」。
+凉	FD9D	重點橫卜口	XIMYR	IMYRF	來源於兼容字「凉」。
 䄭	FD9E	重斜木斜交	XHDHJ	HDHJ	「䄭」並不在 GBK，而 0xFD9E 其實是兼容字「秊」（並沒有單獨對應倉頡內碼，與「秊」共用）。
 裏	FD9F	卜方土紐	YWGV	「YWGV」是來源於 Big-5 的正常「裏」，但 0xFD9F 其實是兼容字「裏」（也沒有單獨對應倉頡內碼）。
 隣	FDA0	鉤縱火木手	NLFDQ	「NLFDQ」是來源於 HKSCS 的正常「隣」，但 0xFDA0 其實是兼容字「隣」（仍沒有單獨對應倉頡內碼）。
-兀	FE40	橫仰	MU		兼容字。查詢漢文庫典可知為「MU1/XMU」與「MU」的混合產物，映射隨 「MU1/XMU」映射到 Big-5 的 0xC94A，倉頡碼取「MU」。
-兀	FE40	重橫仰	XMU	MU	兼容字。Big-5 的 0xC94A，為 Big-5 中 0xA461 的重複字。
+兀	FE40	橫仰	MU		來源於兼容字「兀」。查詢漢文庫典可知為「MU1/XMU」與「MU」的混合產物，映射隨 「MU1/XMU」映射到 Big-5 的 0xC94A，倉頡碼取「MU」。
+兀	FE40	重橫仰	XMU	MU	來源於兼容字「兀」。Big-5 的 0xC94A，為 Big-5 中 0xA461 的重複字。
 﨎	FE42	卜土水	YGE
 﨏	FE43	土金金口	GCCR
 﨑	FE44	重重仰卜並	XXUYT	UYTR
 﨓	FE45	木並人點	DTOI
 﨔	FE46	重木火金手	XDFCQ	DFCQ
-礼	FE47	橫火仰	MFU	兼容字。
+礼	FE47	橫火仰	MFU	來源於兼容字「礼」。
 﨟	FE48	並月日紐	TBAV
-蘒	FE49	重並斜木仰	XTHDU	THDU	兼容字。
+蘒	FE49	重並斜木仰	XTHDU	THDU	來源於兼容字「蘒」。
 﨡	FE4A	縱點斜手橫	LIHQM
 﨣	FE4B	土人卜交	GOYJ
 﨤	FE4C	卜鉤斜水	YNHE

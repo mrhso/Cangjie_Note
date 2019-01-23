@@ -42,13 +42,6 @@
     - [《五六倉頡對照內碼表》](https://github.com/mrhso/Cangjie_Note/blob/master/%E5%AE%98%E6%96%B9%E8%B3%87%E6%96%99/%E5%85%AD%E4%BB%A3%E5%85%A7%E7%A2%BC%E8%A1%A8%EF%BC%88%E9%99%84%2003%20%E4%BA%94%E4%BB%A3%EF%BC%89.txt)正文本化。
     - [《六代取碼規則》](https://github.com/mrhso/Cangjie_Note/blob/master/%E5%80%89%E9%A0%A1%E8%A6%8F%E5%89%87%E7%9B%B8%E9%97%9C/%E5%85%AD%E4%BB%A3%E9%83%A8%E5%88%86%E9%80%8F%E9%9C%B2%E7%9A%84%E8%A6%8F%E5%89%87.md)已文本化。
 
-## 兼容字之準則
-一般來說兼容字是不應使用的。但是對於 GBK 來說，兼容字本來就是**刻意**收錄的。倉頡機來源於 GBK 的部分，就有可能使用兼容字。
-
-查詢漢文庫典就能知道，官方對於 Big-5 的重複字及 GBK 刻意收錄的兼容字有分開編碼的傾向（如「嗀」、「裏」，但這個「裏」還搞錯了），而 HKSCS 映射到兼容區的字則是合併編碼的（如「龜」、「勇」）。
-
-根據官方的這個傾向，才在 Big-5、GBK 來源使用兼容字，而 HKSCS 不使用。
-
 ## 遠程倉庫總表
 - [GitHub](https://github.com/mrhso/Cangjie_Note)
 - [GitLab](https://gitlab.com/mrhso/Cangjie_Note)
