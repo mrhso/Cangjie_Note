@@ -20948,12 +20948,12 @@
 﨟	FE48	並月日紐	TBAV
 蘒	FE49	重並斜木仰	XTHDU	THDU	來源於兼容字「蘒」。
 﨡	FE4A	縱點斜手橫	LIHQM
-﨣	FE4B	土人卜交	GOYJ
+﨣	FE4B	土人卜交	GOYJ		官方 UCS 對應至「𧺯」、GBK 對應至「﨣」。
 﨤	FE4C	卜鉤斜水	YNHE
 﨧	FE4D	金交叉木	CJKD
 﨨	FE4E	金土並交	CGTJ
 﨩	FE4F	鉤縱斜日仰	NLHAU
-⺁	FE50	斜斜	HH
+⺁	FE50	斜斜	HH		官方 UCS、HKSCS 對應至「𠂆」、GBK 對應至「⺁」。
 𠂇	FE51	重斜橫	XHM	HM
 𠂉	FE52	重重斜橫	XXHM	HM
 𠃌	FE53	重重重鉤鉤	XXXNN	NN
@@ -20986,7 +20986,7 @@
 ⺪	FE6E	鉤卜縱橫	NYLM
 䁖	FE6F	月仰火木紐	BUFDV
 䅟	FE70	斜木點叉斜	HDIKH
-⺮	FE71	重人點人點	XOIOI	OIOI
+⺮	FE71	重人點人點	XOIOI	OIOI	官方 UCS 對應至「𥫗」、GBK 對應至「⺮」。
 䌷	FE72	重紐橫縱方	XVMLW	VMLW
 ⺳	FE73	重月金	XBC	BC
 ⺶	FE74	重重重並手	XXXTQ	TQ
