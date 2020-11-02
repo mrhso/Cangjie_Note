@@ -50,13 +50,4 @@
 - [Visual Studio Team Services](https://mrhso.visualstudio.com/Cangjie_Note)
 
 ## 友情连接
-- [「仓颉之友·马来西亚」论坛](http://www.chinesecj.com/forum/forum.php)
-- [「天苍人颉」论坛](http://ejsoon.win/phpbb/)
-- 「仓颉输入法」QQ 群组 [30476878](https://jq.qq.com/?_wv=1027&k=5W3qETZ)
-- 「仓颉输入法」Freenode IRC 频道 [#CJDFH](https://webchat.freenode.net/?channels=%23CJDFH)
-- 「仓颉输入法」Telegram 群组 [@changjei](https://t.me/changjei)
-
-## 项目官方讨论群组
-- QQ 群组 [609486016](https://jq.qq.com/?_wv=1027&k=5UoCrbI)
-- Freenode IRC 频道 [#ezinput](https://webchat.freenode.net/?channels=%23ezinput)
-- Telegram 群组 [@ezinput](https://t.me/ezinput)
+- [E 某灵堂](https://mrhso.github.io/IshisashiWebsite/%E5%8A%B2%E7%88%86%E6%B7%8B%E5%A0%82/Ejsoon/)
