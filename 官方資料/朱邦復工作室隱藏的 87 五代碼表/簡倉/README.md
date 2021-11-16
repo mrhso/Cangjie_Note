@@ -36,13 +36,13 @@ _取自[朱邦复工作室](http://www.cbflabs.com/down/show.php?id=71)_
 
 ## 三、第五代仓颉输入法安装程序说明
 1. 在「附件」中选择「输入法生成器」。<br>如没有该程序，可参考附录 A 安装该程序。
-2. 在「输入法生成器」中，选择 <浏览(W)> 按钮，选取 cj5gb.txt 文件后，<br>![](https://img.vim-cn.com/84/60186540956bb7d302c3fa1a818947cee5f7ff.jpg)
-3. 点选 <转换(V)> 按钮后，再按 <创建(C)> 按钮，输入版本号，及机构名称后，更改输入法功能设置，按 <确定> 后，输入法安装完成。<br>![](https://img.vim-cn.com/5f/80d1756c4814ad5ece732cc0b52d588f1775c2.jpg)
+2. 在「输入法生成器」中，选择 <浏览(W)> 按钮，选取 cj5gb.txt 文件后，<br>![](https://raw.githubusercontent.com/mrhso/Cangjie_Note/master/img/8460186540956bb7d302c3fa1a818947cee5f7ff.jpg)
+3. 点选 <转换(V)> 按钮后，再按 <创建(C)> 按钮，输入版本号，及机构名称后，更改输入法功能设置，按 <确定> 后，输入法安装完成。<br>![](https://raw.githubusercontent.com/mrhso/Cangjie_Note/master/img/5f80d1756c4814ad5ece732cc0b52d588f1775c2.jpg)
 4. 使用者可以使用《第五代仓颉输入法》了，也可设定自己惯用的操作方式。<br>如快速键、查询组字字根等。
 
 ## 附录 A：输入法生成器程序安装说明
-1. 选择 Windows 控制面板中 [添加/删除程序] 图标，选择 <Windows 安装程序><br>![](https://img.vim-cn.com/4a/163df9a7523137dd2d143a5726391e6c25ef71.jpg)
-2. 双击 [附件]，选择输入法生成器，并确定后返回，按 1 中 <确定> 按钮安装输入法生成器程序。（注意不要更改其他项目！）<br>![](https://img.vim-cn.com/60/b37466cf071484500c35df8f3aaaa926bec01c.jpg)
+1. 选择 Windows 控制面板中 [添加/删除程序] 图标，选择 <Windows 安装程序><br>![](https://raw.githubusercontent.com/mrhso/Cangjie_Note/master/img/4a163df9a7523137dd2d143a5726391e6c25ef71.jpg)
+2. 双击 [附件]，选择输入法生成器，并确定后返回，按 1 中 <确定> 按钮安装输入法生成器程序。（注意不要更改其他项目！）<br>![](https://raw.githubusercontent.com/mrhso/Cangjie_Note/master/img/60b37466cf071484500c35df8f3aaaa926bec01c.jpg)
 3. 在重新启动 Windows 后执行 [附件] 中的 <输入法生成器> 程序。
 
 ## 附录 B：码表原文件格式
