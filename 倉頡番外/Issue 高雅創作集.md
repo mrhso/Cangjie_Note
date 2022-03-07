@@ -5,3 +5,6 @@
 
 ## [希望大家来稱讚維基倉教](https://github.com/mrhso/Cangjie_Note/issues/5)
 ![](https://raw.githubusercontent.com/mrhso/Cangjie_Note/master/img/b8b41d342a967338808424b964d12a4e45cdd014.png)
+
+## [講道理才是唯一出路](https://github.com/Jackchows/Cangjie5/issues/241)
+![](https://raw.githubusercontent.com/mrhso/Cangjie_Note/master/img/49240483f58850b69cbf72b571f61b3a3a0b9d26.png)
