@@ -8,3 +8,9 @@
 
 ## [講道理才是唯一出路](https://github.com/Jackchows/Cangjie5/issues/241)
 ![](https://raw.githubusercontent.com/mrhso/Cangjie_Note/master/img/49240483f58850b69cbf72b571f61b3a3a0b9d26.png)
+
+## [投稿：致沈紅蓮的一封公開信](https://github.com/mrhso/Cangjie_Note/issues/7)
+![](https://raw.githubusercontent.com/mrhso/Cangjie_Note/master/img/0e7c91a0113de299e6dc5e1b690aa5c8ccbd531c.png)
+
+## [【倉頡新聞二則】尨見鬼](https://github.com/mrhso/Cangjie_Note/issues/8)
+![](https://raw.githubusercontent.com/mrhso/Cangjie_Note/master/img/3b1dcba9daab2aa7316f337755b5919cefc27ee2.png)
